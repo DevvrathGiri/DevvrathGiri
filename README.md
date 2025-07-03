@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Wanderlust](https://wanderlust-u5lg.onrender.com)
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Microservices**
 
 - 👨‍💻 All of my projects are available at [https://devvrath-portfolio.onrender.com](https://devvrath-portfolio.onrender.com)
 
