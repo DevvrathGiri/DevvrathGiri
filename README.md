@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devvrath-portfolio.onrender.com](https://devvrath-portfolio.onrender.com)
 
-- 💬 Ask me about **React, JavaScript,NodeJs**
+- 💬 Ask me about **React, JavaScript,NodeJs,expressJs**
 
 - 📫 How to reach me **giri64563@gmail.com**
 
