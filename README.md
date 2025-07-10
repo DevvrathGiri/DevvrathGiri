@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **devvrath03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x6uUsL7Ck0blZZwpvwcWU50FSl82ddDP/view?usp=drivesdk](https://drive.google.com/file/d/1x6uUsL7Ck0blZZwpvwcWU50FSl82ddDP/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x6uUsL7Ck0blZZwpvwcWU50FSl82ddDP/view?usp=drivesdk](https://drive.google.com/file/d/1_4HIOC4ltoNWRbmJ-0iMo6FyNE3maylx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
