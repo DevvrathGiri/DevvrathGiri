@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👨‍💻 All of my projects are available at [https://devvrath-portfolio.onrender.com](https://devvrath-portfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [https://devvrath-portfolio.onrender.com](https://devvrath-giri-profile.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript,NodeJs,expressJs,sql**
 
