@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvrathgiri&label=Profile%20views&color=0e75b6&style=flat" alt="devvrathgiri" /> </p>
 
-- 🔭 I’m currently working on [Wanderlust](https://wanderlust-u5lg.onrender.com)
+- 🌱 I’m currently learning **Data Structures And Algorithms**
 
-- 🌱 I’m currently learning **Microservices**
-
-- 👨‍💻 All of my projects are available at [https://devvrath-portfolio.onrender.com](https://devvrath-giri-profile.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://devvrath-giri-profile.netlify.app/](https://devvrath-giri-profile.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript,NodeJs,expressJs,sql**
 
 - 📫 How to reach me **devvrath03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x6uUsL7Ck0blZZwpvwcWU50FSl82ddDP/view?usp=drivesdk](https://drive.google.com/file/d/1_4HIOC4ltoNWRbmJ-0iMo6FyNE3maylx/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1He5dZQ18lrc5rhO0thTD1NACdQqHFPkk/view](https://drive.google.com/file/d/1He5dZQ18lrc5rhO0thTD1NACdQqHFPkk/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
