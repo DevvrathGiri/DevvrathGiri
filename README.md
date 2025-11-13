@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **devvrath03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1He5dZQ18lrc5rhO0thTD1NACdQqHFPkk/view](https://drive.google.com/file/d/1He5dZQ18lrc5rhO0thTD1NACdQqHFPkk/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TBazdGQep6c703x-DVNqYZFUuoiPPAPK/view?usp=drive_link](https://drive.google.com/file/d/1TBazdGQep6c703x-DVNqYZFUuoiPPAPK/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
